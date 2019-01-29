@@ -12,7 +12,8 @@ The project is to implement a PID controller to have a car drive around a track 
 A simulated environment of the track is provided by the Udacity's Self Driving Car Simulator. The cross track error(cte) i.e. the distance between central line of the track and the instantaneous lateral postion of the simulated car is used to calculate the P(proportional), I(Integral) & D(Derivative) terms of the PID controller to govern the steering angle and the throttle of the car for autonomous drive. 
 
  
-Note:
+#### Note: Project code files in 'src' folder
+
 
 For comprehensive instructions on how to install and run project, please, refer to the following repo, which was used as a skeleton for this project: https://github.com/udacity/CarND-PID-Control-Project
  
