@@ -60,7 +60,7 @@ The simulator screen showing the autonomous drive through a PID controller.
 ![alt text][image1]
 
 #### Video
-A short video of the run of the car aroudn the car can be found here. 
+A short video of the run of the car aroudn the car can be found here.https://github.com/tomjose1792/CarND-PID-Control-Project/blob/master/simulation/Video.mov 
 
 
 
